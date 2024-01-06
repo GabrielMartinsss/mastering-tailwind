@@ -15,13 +15,13 @@ export function UsedSpaceWidget() {
       <div className="space-x-3">
         <button
           type="button"
-          className="text-sm font-medium text-violet-500 hover:text-violet-700"
+          className="rounded text-sm font-medium text-violet-500 outline-none hover:text-violet-700 focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-4"
         >
           Dismiss
         </button>
         <button
           type="button"
-          className="text-sm font-medium text-violet-700 hover:text-violet-900"
+          className="rounded text-sm font-medium text-violet-700 outline-none hover:text-violet-900 focus-visible:ring-2 focus-visible:ring-violet-400 focus-visible:ring-offset-4"
         >
           Upgrade plan
         </button>
