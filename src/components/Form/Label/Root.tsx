@@ -2,7 +2,7 @@ import { ComponentProps } from 'react'
 import { VariantProps, tv } from 'tailwind-variants'
 
 const label = tv({
-  base: 'text-sm font-medium text-zinc-700',
+  base: 'text-sm font-medium text-zinc-700 dark:text-zinc-300',
 
   variants: {
     variant: {
