@@ -23,6 +23,16 @@ Durante o desenvolvimento deste projeto, aprendi técnicas e conceitos important
 - **Troca de Tema:** Exploração da troca dinâmica de temas para oferecer aos usuários a flexibilidade de personalizar a aparência do aplicativo de acordo com suas preferências.
 <hr/>
 
+## Tecnologias Adicionais
+
+Este projeto também incorpora outras tecnologias para facilitar o desenvolvimento:
+
+- **Radix:** Utilizado para aprimorar a construção de componentes, oferecendo soluções prontas e flexíveis.
+
+- **Framer Motion:** Integrado para proporcionar animações fluidas e interativas, contribuindo para uma experiência de usuário mais envolvente.
+<hr/>
+
+
 ## Como Executar o Projeto Localmente
 
 Se você quiser visualizar o projeto localmente, siga os passos abaixo:
