@@ -22,7 +22,7 @@ export default function ButtonTheme() {
   }
   return (
     <Button variant="outline" className="h-9 w-9 p-2" onClick={toogleTheme}>
-      {theme === 'dark' ? <SunIcon size={16} /> : <MoonIcon size={16} />}
+      {theme === 'dark' ? <MoonIcon size={16} /> : <SunIcon size={16} />}
     </Button>
   )
 }
